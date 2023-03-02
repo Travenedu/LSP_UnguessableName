@@ -165,7 +165,6 @@ public class IntegerSet {
 	/**
 	 *  Set Difference1: Removes integers present in the 2nd set
 	 *  from the first set (Subtraction/Arithmetic). 
-	 *  Ex: A - B or A ⋂ !B = setA.diff1(setB)
 	 * @param intSetb: 2nd set to perform this method with
 	 */
 	public void diff1(IntegerSet intSetb) {
