@@ -335,7 +335,7 @@ class IntegerSetTest {
 		
 		setA.add(0);
 		setA.add(1);
-		setA.add(1);
+		setA.add(2);
 		setB.add(2);
 		setB.add(3);
 		setB.add(4);
